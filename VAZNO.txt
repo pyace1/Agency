@@ -1,0 +1,4 @@
+1. objasnjavnje Flexboxa
+2. Box-Shadow u sekciji about (senka iza slike)
+3. fixirana pozadina (sekcija Services) background-attachment: fixed;
+4. promena rasporeda elemenata (ikonica ) u .services, preko order:1 (defaultna vrednost je 0)
